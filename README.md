@@ -1,2 +1,4 @@
 # demo
-This is my first repo. Author - Preyal Jaiswal 
+This is my first repo.
+<br> 
+Author - Preyal Jaiswal 
