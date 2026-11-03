@@ -1,4 +1,4 @@
 # demo
 This is my first repo.
 <br> 
-Author - Preyal Jaiswal 
+Author - Preyal Jaiswal (IT3rd year)
